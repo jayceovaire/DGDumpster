@@ -37,10 +37,12 @@ a {
 
 /* Media Query for smaller screens */
 @media screen and (max-width: 480px) {
-  .hero p,
   .junkRemoval p,
   .junkRemoval h1 {
     font-size: medium; /* Adjust font size smaller for smaller screens */
+  }
+  .junkRemoval h1 {
+    font-size: xx-large;
   }
 
 

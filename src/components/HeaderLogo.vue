@@ -16,7 +16,6 @@
 <style scoped>
 
 .logo {
-  margin-top: 10%;
   margin-bottom: 10%;
 }
 
