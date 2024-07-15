@@ -218,7 +218,6 @@ button.selected:hover {
     font-size: xx-large;
   }
 
-;
 
 }
 

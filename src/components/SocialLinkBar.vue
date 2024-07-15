@@ -21,6 +21,8 @@
         size="x-large"
         block
         rounded="sm"
+        target="_blank"
+        href="https://www.instagram.com/d_and_g_dumpsters/?igsh=MWl4b3NxcHJnMHBjOA%3D%3D"
     >
 
     </v-btn>
