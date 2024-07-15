@@ -35,6 +35,10 @@ a {
     margin-top: 5%;
   }
 
+  .dphoneContainer p {
+    font-size: x-large;
+
+  }
 
 }
 

@@ -1,6 +1,6 @@
 <template>
+  <h1 id="dCostLabel" class="dCostLabel">Dumpster Rental Cost Estimator</h1>
   <div id="calculator" class="calculator">
-    <h1>Dumpster Rental Cost Estimator</h1>
     <label for="calculator-field">Dumpster Size</label>
     <div class="calculator-field">
       <div class="size-buttons">
@@ -93,7 +93,7 @@ watch(rentalDays, calculateCost);
 .calculator {
   max-width:50%;
   margin: 0 auto;
-  margin-top: 20%;
+
   margin-bottom: 2.5%;
   padding: 2%;
   background-color: #f0f0f0;
@@ -214,6 +214,13 @@ button.selected:hover {
     width: 60%; /* Further adjust width for smaller screens */
   }
 }
+
+.dCostLabel {
+  color: #eb1c25;
+  font-size: xxx-large;
+  margin-top: 15%;
+}
+
 </style>
 
 

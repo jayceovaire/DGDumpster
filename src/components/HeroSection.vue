@@ -18,7 +18,7 @@
       We are a locally owned dumpster rental company that is now offering <a href="#junkRemoval">junk removal services</a> as well!
       We service Macomb, St.Clair, Oakland and Wayne counties. We offer 10, 15, and 20 yard dumpsters that are driveway friendly!
       <br> <br>As a small company, we understand the value of getting the best and fairest price. We pride ourselves
-      on offering <a href="#calculator">competitive rates</a> without compromising quality or service. We strive to provide you with solutions that meet your needs
+      on offering <a href="#dCostLabel">competitive rates</a> without compromising quality or service. We strive to provide you with solutions that meet your needs
       and exceed your expectations, all at a price that feels right. By choosing us, you're not only supporting a local business
       but also benefiting from personalized attention and dedication that larger companies often overlook.
     </p>
@@ -60,12 +60,17 @@ a {
   .hero {
     flex-direction: column;
     align-items: center;
+
   }
 
   .heroImage {
     width: 100%;
     max-width: none;
     margin-bottom: 2%;
+  }
+
+  .heroText {
+    font-size: large;
   }
 }
 

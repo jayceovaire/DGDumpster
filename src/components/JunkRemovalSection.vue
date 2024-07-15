@@ -39,7 +39,7 @@ a {
 @media screen and (max-width: 480px) {
   .junkRemoval p,
   .junkRemoval h1 {
-    font-size: medium; /* Adjust font size smaller for smaller screens */
+    font-size: large; /* Adjust font size smaller for smaller screens */
   }
   .junkRemoval h1 {
     font-size: xx-large;

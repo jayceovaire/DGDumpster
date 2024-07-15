@@ -33,6 +33,9 @@ a {
     justify-content: center;
     font-size: xxx-large;
   }
+  .phoneContainer p {
+    font-size: x-large;
+  }
 
 }
 </style>
