@@ -23,7 +23,8 @@
 @media screen and (max-width: 480px) {
 
   .logo {
-    margin-bottom: 40%;
+    margin-top: 30%;
+    margin-bottom: 30%;
   }
 
 
