@@ -213,6 +213,13 @@ button.selected:hover {
   .sliderDaysNumber {
     width: 60%; /* Further adjust width for smaller screens */
   }
+
+  #dCostLabel {
+    font-size: xx-large;
+  }
+
+;
+
 }
 
 .dCostLabel {
