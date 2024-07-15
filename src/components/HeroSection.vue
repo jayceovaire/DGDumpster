@@ -47,7 +47,7 @@ a {
   margin-left: 10%;
   padding-bottom: 20%;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
 
 }
 

@@ -34,6 +34,7 @@ a {
   text-decoration: none;
 }
 
+
 /* Media Query for smaller screens */
 @media screen and (max-width: 480px) {
   .hero p,
@@ -41,6 +42,7 @@ a {
   .junkRemoval h1 {
     font-size: medium; /* Adjust font size smaller for smaller screens */
   }
+
 
 }
 </style>

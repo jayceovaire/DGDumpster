@@ -26,6 +26,16 @@ a {
   text-decoration: none;
 }
 
+@media screen and (max-width: 480px) {
+
+  .dphoneNumber {
+    display: flex;
+    justify-content: center;
+    font-size: xxx-large;
+    margin-top: 5%;
+  }
+
+}
 
 
 </style>
