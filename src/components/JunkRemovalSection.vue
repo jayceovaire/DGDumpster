@@ -3,6 +3,17 @@
 </script>
 
 <template>
+
+
+  <v-img
+      class="junkRemovalImage"
+      src="../assets/junkPhoto.jpg"
+      width="50%"
+      height="auto"
+      max-width="800"
+      max-height="1500"
+  />
+
   <div id="junkRemoval" class="junkRemoval">
     <h1>Junk Removal</h1>
     <p>
@@ -33,6 +44,8 @@ a {
   color: #68bd46;
   text-decoration: none;
 }
+
+
 
 
 /* Media Query for smaller screens */
